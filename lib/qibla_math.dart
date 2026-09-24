@@ -7,3 +7,5 @@ export 'src/angles.dart';
 export 'src/compass_points.dart';
 export 'src/geodesy.dart';
 export 'src/qibla.dart';
+export 'src/tilt_heading.dart';
+export 'src/wmm/world_magnetic_model.dart';
